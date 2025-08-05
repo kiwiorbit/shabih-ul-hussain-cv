@@ -1,6 +1,6 @@
 # 📄 Shabih Ul Hussain Shah - Digital CV
 
-[![Live CV](https://img.shields.io/badge/Live-Demo-gold?style=for-the-badge)](https://kiwiorbit.github.io/shabih-ul-hussain-cv/)
+(https://kiwiorbit.github.io/shabih-ul-hussain-cv/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/kiwiorbit/cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hash94lens/)
 
